@@ -14,7 +14,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-<img alt="projeto Link Bio Personalizado" src="./github/preview.jpg" width="100%">
+<img alt="projeto Link Bio Personalizado" src="./.github/preview.jpg" width="100%">
 </p>
 
 ## 🚀Tecnologias
