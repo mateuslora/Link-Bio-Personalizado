@@ -18,7 +18,13 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 ## 🚀Tecnologias
-	@@ -34,8 +34,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
+	
+-HTML e CSS
+-JavaScript
+-Git e Github
+-Figma
+
+# 💻Projeto
 
 O Link Bio Personalizado é um agregador de links para usar como cartão de visistas online.
 
